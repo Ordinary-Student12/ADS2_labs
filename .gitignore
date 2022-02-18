@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#Workspace Files
+.metadata/
+
+#Project Files
+**/Debug
+**/.settings
+*.cproject
+*.gdbinit
+*.project
